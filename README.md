@@ -2,7 +2,7 @@
 
 [&lt;한권으로 합격하는 취업 코딩테스트>](https://book.naver.com/bookdb/book_detail.naver?bid=21136621) 정오표 및 코드
 
-- 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419)
+- 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [YES24](http://www.yes24.com/Product/Goods/104231234), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419), [알라딘](http://aladin.kr/p/GP0za)
 - 각 문제를 C++, Python, Kotlin, Swift로 푼 각각의 코드를 제공 예정입니다.
 
 ***
