@@ -21,9 +21,12 @@
 
 ##### CHAPTER 01 자료구조
 
-- 연습문제 01 [키로거](https://boj.kr/5397)
-- 연습문제 02 [후위표기식2](https://boj.kr/1935)
-- 연습문제 03 [N번째 큰 수](http://boj.kr/2075)
+- 연습문제 01 [키로거](https://boj.kr/5397)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/1.cpp), [Python(덱)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/2.py), [Python(스택)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/3.py)
+- 연습문제 02 [후위표기식2](https://boj.kr/1935)  
+  [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2002/1.py)
+- 연습문제 03 [N번째 큰 수](http://boj.kr/2075)  
+  [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/1.cpp), [C++(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/2.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/3.py)
 
 ##### CHAPTER 02 완전탐색
 
