@@ -47,9 +47,12 @@
 
 ##### CHAPTER 06 동적계획법
 
-- 연습문제 07 [기타레슨](https://boj.kr/2343)
-- 연습문제 08 [제곱수의 합](https://boj.kr/1699)
-- 연습문제 09 [가장 큰 증가 부분 수열](http://boj.kr/11055)
+- 연습문제 07 [기타레슨](https://boj.kr/2343)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2007/1.py), Kotlin, Swift
+- 연습문제 08 [제곱수의 합](https://boj.kr/1699)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2008/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2008/2.py), Kotlin, Swift
+- 연습문제 09 [가장 큰 증가 부분 수열](http://boj.kr/11055)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2009/1.py), Kotlin, Swift
 
 ### PART 3 알고리즘 핵심문제 20
 
