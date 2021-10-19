@@ -2,7 +2,7 @@
 
 [&lt;한권으로 합격하는 취업 코딩테스트>](https://book.naver.com/bookdb/book_detail.naver?bid=21136621) 정오표 및 코드
 
-<img src="https://user-images.githubusercontent.com/8025481/137583111-2950d198-6ae9-45e7-bbe7-9f20a24a4dcd.jpg" height="500" />
+<img src="https://user-images.githubusercontent.com/8025481/137583111-2950d198-6ae9-45e7-bbe7-9f20a24a4dcd.jpg" height="500"  alt="thumbnail"/>
 
 - 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [YES24](http://www.yes24.com/Product/Goods/104231234), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419), [알라딘](http://aladin.kr/p/GP0za), [영풍문고](https://www.ypbooks.co.kr/book.yp?bookcd=101130329), [맨인북스](https://www.kangcom.com/sub/view.asp?sku=281377854), [11번가](http://www.11st.co.kr/products/3868685312), [커넥츠 공부서점](https://book.conects.com/product/bookDetail?goods_id=0100023107769)
 - 각 문제를 C++, Python, Kotlin, Swift로 푼 각각의 코드를 제공 예정입니다.
@@ -36,9 +36,12 @@
 
 ##### CHAPTER 04 DFS, BFS, 백트래킹
 
-- 연습문제 04 [음식물 피하기](http://boj.kr/1743)
-- 연습문제 05 [나이트의 이동](https://boj.kr/7562)
-- 연습문제 06 [N-Queen](https://boj.kr/9663)
+- 연습문제 04 [음식물 피하기](http://boj.kr/1743)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2004/1.py), Kotlin, Swift
+- 연습문제 05 [나이트의 이동](https://boj.kr/7562)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2005/1.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2005/2.kt), Swift
+- 연습문제 06 [N-Queen](https://boj.kr/9663)  
+  C++, [PyPy3](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/1.py), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/3.kt), Swift
 
 ##### CHAPTER 05 이분탐색
 
