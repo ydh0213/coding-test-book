@@ -2,7 +2,9 @@
 
 [&lt;한권으로 합격하는 취업 코딩테스트>](https://book.naver.com/bookdb/book_detail.naver?bid=21136621) 정오표 및 코드
 
-- 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [YES24](http://www.yes24.com/Product/Goods/104231234), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419), [알라딘](http://aladin.kr/p/GP0za), [11번가](http://www.11st.co.kr/products/3868685312)
+<img src="https://user-images.githubusercontent.com/8025481/137583111-2950d198-6ae9-45e7-bbe7-9f20a24a4dcd.jpg" height="500" />
+
+- 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [YES24](http://www.yes24.com/Product/Goods/104231234), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419), [알라딘](http://aladin.kr/p/GP0za), [영풍문고](https://www.ypbooks.co.kr/book.yp?bookcd=101130329), [맨인북스](https://www.kangcom.com/sub/view.asp?sku=281377854), [11번가](http://www.11st.co.kr/products/3868685312), [커넥츠 공부서점](https://book.conects.com/product/bookDetail?goods_id=0100023107769)
 - 각 문제를 C++, Python, Kotlin, Swift로 푼 각각의 코드를 제공 예정입니다.
 
 ***
@@ -21,9 +23,12 @@
 
 ##### CHAPTER 01 자료구조
 
-- 연습문제 01 [키로거](https://boj.kr/5397)
-- 연습문제 02 [후위표기식2](https://boj.kr/1935)
-- 연습문제 03 [N번째 큰 수](http://boj.kr/2075)
+- 연습문제 01 [키로거](https://boj.kr/5397)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/1.cpp), [Python(덱)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/2.py), [Python(스택)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/3.py), Kotlin, Swift
+- 연습문제 02 [후위표기식2](https://boj.kr/1935)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2002/1.py), Kotlin, Swift
+- 연습문제 03 [N번째 큰 수](http://boj.kr/2075)  
+  [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/1.cpp), [C++(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/2.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/3.py), Kotlin, Swift
 
 ##### CHAPTER 02 완전탐색
 
