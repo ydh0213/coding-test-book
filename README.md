@@ -56,9 +56,12 @@
 
 ### PART 3 알고리즘 핵심문제 20
 
-- 핵심문제 01 [외계인의 기타 연주](https://boj.kr/2841)
-- 핵심문제 02 [캠핑](http://boj.kr/4796)
-- 핵심문제 03 [치킨 배달](http://boj.kr/15686)
+- 핵심문제 01 [외계인의 기타 연주](https://boj.kr/2841)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2001/1.py), Kotlin, Swift
+- 핵심문제 02 [캠핑](http://boj.kr/4796)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2002/1.py), Kotlin, Swift
+- 핵심문제 03 [치킨 배달](http://boj.kr/15686)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2003/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2003/2.py), Kotlin, Swift
 - 핵심문제 04 [케빈 베이컨의 6단계 법칙](http://boj.kr/1389) 
 - 핵심문제 05 [가장 큰 정사각형](http://boj.kr/1915)
 - 핵심문제 06 [중앙값 구하기](https://boj.kr/2696)
