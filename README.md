@@ -62,9 +62,12 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2002/1.py), Kotlin, Swift
 - 핵심문제 03 [치킨 배달](http://boj.kr/15686)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2003/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2003/2.py), Kotlin, Swift
-- 핵심문제 04 [케빈 베이컨의 6단계 법칙](http://boj.kr/1389) 
-- 핵심문제 05 [가장 큰 정사각형](http://boj.kr/1915)
-- 핵심문제 06 [중앙값 구하기](https://boj.kr/2696)
+- 핵심문제 04 [케빈 베이컨의 6단계 법칙](http://boj.kr/1389)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2004/1.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2004/2.kt), Swift
+- 핵심문제 05 [가장 큰 정사각형](http://boj.kr/1915)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2005/1.py), Kotlin, Swift
+- 핵심문제 06 [중앙값 구하기](https://boj.kr/2696)  
+  [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/1.cpp), [C++(연결리스트)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/2.cpp), [Python(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/3.py), [Python(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/4.py), Kotlin, Swift
 - 핵심문제 07 [연산자 끼워 넣기](http://boj.kr/14888)
 - 핵심문제 08 [팰린드롬 만들기](https://boj.kr/1213)
 - 핵심문제 09 [오큰수](https://boj.kr/17298)
