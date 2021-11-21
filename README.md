@@ -68,10 +68,14 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2005/1.py), Kotlin, Swift
 - 핵심문제 06 [중앙값 구하기](https://boj.kr/2696)  
   [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/1.cpp), [C++(연결리스트)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/2.cpp), [Python(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/3.py), [Python(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2006/4.py), Kotlin, Swift
-- 핵심문제 07 [연산자 끼워 넣기](http://boj.kr/14888)
-- 핵심문제 08 [팰린드롬 만들기](https://boj.kr/1213)
-- 핵심문제 09 [오큰수](https://boj.kr/17298)
-- 핵심문제 10 [사전](https://boj.kr/1256)
+- 핵심문제 07 [연산자 끼워 넣기](http://boj.kr/14888)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2007/1.cpp), [Python(순열, 집합)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2007/2.py), [Python(BFS)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2007/3.py), Kotlin, Swift
+- 핵심문제 08 [팰린드롬 만들기](https://boj.kr/1213)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2008/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2008/2.py), Kotlin, Swift
+- 핵심문제 09 [오큰수](https://boj.kr/17298)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2009/1.py), Kotlin, Swift
+- 핵심문제 10 [사전](https://boj.kr/1256)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2010/1.py), Kotlin, Swift
 - 핵심문제 11 [수열 정렬](https://boj.kr/1015)
 - 핵심문제 12 [숫자](https://boj.kr/1131)
 - 핵심문제 13 [차이를 최대로](https://boj.kr/10819)
