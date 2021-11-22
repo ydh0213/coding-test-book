@@ -76,11 +76,16 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2009/1.py), Kotlin, Swift
 - 핵심문제 10 [사전](https://boj.kr/1256)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2010/1.py), Kotlin, Swift
-- 핵심문제 11 [수열 정렬](https://boj.kr/1015)
-- 핵심문제 12 [숫자](https://boj.kr/1131)
-- 핵심문제 13 [차이를 최대로](https://boj.kr/10819)
-- 핵심문제 14 [보물](https://boj.kr/1026)
-- 핵심문제 15 [주사위](https://boj.kr/1041)
+- 핵심문제 11 [수열 정렬](https://boj.kr/1015)  
+  C++, [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2011/1.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2011/2.py), Kotlin, Swift
+- 핵심문제 12 [숫자](https://boj.kr/1131)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2012/1.py), Kotlin, Swift
+- 핵심문제 13 [차이를 최대로](https://boj.kr/10819)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2013/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2013/2.py), Kotlin, Swift
+- 핵심문제 14 [보물](https://boj.kr/1026)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2014/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2014/2.py), Kotlin, Swift
+- 핵심문제 15 [주사위](https://boj.kr/1041)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2015/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2015/2.py), Kotlin, Swift
 - 핵심문제 16 [순열장난](https://boj.kr/10597)
 - 핵심문제 17 [멀티탭 스케줄링](https://boj.kr/1700)
 - 핵심문제 18 [상범 빌딩](https://boj.kr/6593)
