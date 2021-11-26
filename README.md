@@ -86,11 +86,16 @@
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2014/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2014/2.py), Kotlin, Swift
 - 핵심문제 15 [주사위](https://boj.kr/1041)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2015/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2015/2.py), Kotlin, Swift
-- 핵심문제 16 [순열장난](https://boj.kr/10597)
-- 핵심문제 17 [멀티탭 스케줄링](https://boj.kr/1700)
-- 핵심문제 18 [상범 빌딩](https://boj.kr/6593)
-- 핵심문제 19 [좋은 단어](https://boj.kr/3986)
-- 핵심문제 20 [귀농](https://boj.kr/1184)
+- 핵심문제 16 [순열장난](https://boj.kr/10597)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2016/1.py), Kotlin, Swift
+- 핵심문제 17 [멀티탭 스케줄링](https://boj.kr/1700)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2017/1.py), Kotlin, Swift
+- 핵심문제 18 [상범 빌딩](https://boj.kr/6593)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2018/1.py), Kotlin, Swift
+- 핵심문제 19 [좋은 단어](https://boj.kr/3986)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2019/1.py), Kotlin, Swift
+- 핵심문제 20 [귀농](https://boj.kr/1184)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2020/1.py), Kotlin, Swift
 
 ### PART 4 삼성ㆍ카카오 기출문제
 
