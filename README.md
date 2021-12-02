@@ -101,10 +101,14 @@
 
 ##### CHAPTER 01 삼성전자 역량테스트
 
-- 기출문제 01 [구슬 탈출 2](http://boj.kr/13460)
-- 기출문제 02 [2048(Easy)](https://boj.kr/12100)
-- 기출문제 03 [뱀](http://boj.kr/3190)
-- 기출문제 04 [주사위 굴리기](http://boj.kr/14499)
+- 기출문제 01 [구슬 탈출 2](http://boj.kr/13460)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2001/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2001/2.py), Kotlin, Swift
+- 기출문제 02 [2048(Easy)](https://boj.kr/12100)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2002/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2002/2.py), Kotlin, Swift
+- 기출문제 03 [뱀](http://boj.kr/3190)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2003/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2003/2.py), Kotlin, Swift
+- 기출문제 04 [주사위 굴리기](http://boj.kr/14499)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2004/1.py), Kotlin, Swift
 - 기출문제 05 [상어 초등학교](http://boj.kr/21608)
 - 기출문제 06 [상어 중학교](http://boj.kr/21609)
 - 기출문제 07 [마법사 상어와 비바라기](http://boj.kr/21610)
