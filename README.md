@@ -109,10 +109,14 @@
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2003/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2003/2.py), Kotlin, Swift
 - 기출문제 04 [주사위 굴리기](http://boj.kr/14499)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2004/1.py), Kotlin, Swift
-- 기출문제 05 [상어 초등학교](http://boj.kr/21608)
-- 기출문제 06 [상어 중학교](http://boj.kr/21609)
-- 기출문제 07 [마법사 상어와 비바라기](http://boj.kr/21610)
-- 기출문제 08 [마법사 상어와 블리자드](http://boj.kr/21611)
+- 기출문제 05 [상어 초등학교](http://boj.kr/21608)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2005/1.py), Kotlin, Swift
+- 기출문제 06 [상어 중학교](http://boj.kr/21609)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2006/1.py), Kotlin, Swift
+- 기출문제 07 [마법사 상어와 비바라기](http://boj.kr/21610)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2007/1.py), Kotlin, Swift
+- 기출문제 08 [마법사 상어와 블리자드](http://boj.kr/21611)  
+  C++, [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2008/1.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2008/2.py), Kotlin, Swift
 
 ##### CHAPTER 02 카카오 블라인드 코딩테스트
 
