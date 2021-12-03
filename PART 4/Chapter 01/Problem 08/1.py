@@ -36,14 +36,14 @@ for _ in range(M):
     else:
         d = 2
 
-    # 1. 구슬 파괴
+    # 구슬 파괴
     y, x = coords[0]
     for i in range(1, s + 1):
         y += dy[d]
         x += dx[d]
         beads[y][x] = 0
 
-    # 2. 구슬 이동 및 폭발
+    # 구슬 이동 및 폭발
     arr = [[] for _ in range(2)]
     b = 0
     for y, x in coords:
@@ -70,7 +70,7 @@ for _ in range(M):
         for j in range(N):
             beads[i][j] = 0
 
-    # 4. 구슬 변화
+    # 구슬 변화
     nxt = chain.from_iterable((len(list(gr)), bead) for bead, gr in groupby(arr[b]))
     for (y, x), val in zip(coords[1:], nxt):
         beads[y][x] = val
