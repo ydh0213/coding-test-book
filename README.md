@@ -120,11 +120,16 @@
 
 ##### CHAPTER 02 카카오 블라인드 코딩테스트
 
-- 기출문제 01 [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
-- 기출문제 02 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
-- 기출문제 03 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
-- 기출문제 04 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-- 기출문제 05 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- 기출문제 01 [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2001/1.py), Kotlin, Swift
+- 기출문제 02 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2002/1.py), Kotlin, Swift
+- 기출문제 03 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2003/1.py), Kotlin, Swift
+- 기출문제 04 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2004/1.py), Kotlin, Swift
+- 기출문제 05 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2005/1.py), Kotlin, Swift
 - 기출문제 06 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 기출문제 07 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 - 기출문제 08 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
