@@ -130,7 +130,11 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2004/1.py), Kotlin, Swift
 - 기출문제 05 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2005/1.py), Kotlin, Swift
-- 기출문제 06 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
-- 기출문제 07 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
-- 기출문제 08 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
-- 기출문제 09 [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+- 기출문제 06 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2006/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2006/2.py), Kotlin, Swift
+- 기출문제 07 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2007/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2007/2.py), Kotlin, Swift
+- 기출문제 08 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2008/1.py), Kotlin, Swift
+- 기출문제 09 [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2009/1.py), Kotlin, Swift
