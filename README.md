@@ -9,19 +9,63 @@
 
 ***
 
-### PART 1 코딩테스트 준비 어떻게 해야 하나요?
+## PART 1 코딩테스트 준비 어떻게 해야 하나요?
 
-##### CHAPTER 01 코딩테스트란?
+### CHAPTER 01 코딩테스트란?
 
-##### CHAPTER 02 코딩테스트 출제 경향
+##### 알고리즘 대회와 기업 코딩테스트
 
-##### CHAPTER 03 코딩테스트 채점 기준
+##### 코딩테스트 대비하기
 
-##### CHAPTER 04 문제 해결 시작하기
+##### 언어 고르기
 
-### PART 2 알고리즘 유형분석
+### CHAPTER 02 코딩테스트 출제 경향
 
-##### CHAPTER 01 자료구조
+##### 기업별 출제경향
+
+### CHAPTER 03 코딩테스트 채점 기준
+
+##### 시간 복잡도
+
+##### 공간 복잡도
+
+### CHAPTER 04 문제 해결 시작하기
+
+##### 코딩 테스트에 필요한 프로그래밍 기본 지식
+
+##### 입출력
+
+##### 빠른 입출력
+
+##### 자료형
+
+##### 변수명
+
+##### 리스트 컴프리헨션 List Comprehension
+
+##### 삼항 연산자
+
+## PART 2 알고리즘 유형분석
+
+### CHAPTER 01 자료구조
+
+##### 코딩 테스트에 필요한 자료구조
+
+##### 배열 Array
+
+##### 연결 리스트 Linked List
+
+##### 스택 Stack
+
+##### 큐 Queue
+
+##### 우선순위 큐 Priority Queue
+
+##### 최대힙과 최소힙
+
+##### 맵 Map
+
+##### 집합 Set
 
 - 연습문제 01 [키로거](https://boj.kr/5397)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/1.cpp), [Python(덱)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/2.py), [Python(스택)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/3.py), Kotlin, Swift
@@ -30,11 +74,44 @@
 - 연습문제 03 [N번째 큰 수](http://boj.kr/2075)  
   [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/1.cpp), [C++(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/2.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/3.py), Kotlin, Swift
 
-##### CHAPTER 02 완전탐색
+### CHAPTER 02 완전탐색
 
-##### CHAPTER 03 탐욕법
+##### 브루트 포스 Brute-force
 
-##### CHAPTER 04 DFS, BFS, 백트래킹
+##### 순열 permutation
+
+##### 조합 combination
+
+### CHAPTER 03 탐욕법
+
+### CHAPTER 04 DFS, BFS, 백트래킹
+
+##### 그래프 Graph
+
+##### 그래프의 방향성
+
+##### 그래프의 순환성
+
+##### 그래프의 연결 요소 Connected Component
+
+##### 트리 Tree
+
+##### 그래프를 코드로 나타내는 방법
+
+1. 인접 행렬 Adjacency Matrix
+2. 인접 리스트 Adjacency List
+
+##### 인접 행렬과 인접 리스트
+
+##### DFS Depth First Search
+
+##### BFS Breadth First Search
+
+##### DFS/BFS의 시간 복잡도
+
+##### 길찾기 문제
+
+##### 백트래킹 Backtracking
 
 - 연습문제 04 [음식물 피하기](http://boj.kr/1743)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2004/1.py), Kotlin, Swift
@@ -43,9 +120,21 @@
 - 연습문제 06 [N-Queen](https://boj.kr/9663)  
   C++, [PyPy3](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/1.py), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/3.kt), Swift
 
-##### CHAPTER 05 이분탐색
+### CHAPTER 05 이분탐색
 
-##### CHAPTER 06 동적계획법
+##### 선형 탐색 Linear Search
+
+##### 이분 탐색 Binary Search
+
+##### 매개변수 탐색 Parametric Search
+
+### CHAPTER 06 동적계획법
+
+##### 메모이제이션 Memoization
+
+##### 타뷸레이션 Tabulation
+
+##### Top-down vs Bottom-up
 
 - 연습문제 07 [기타레슨](https://boj.kr/2343)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2007/1.py), Kotlin, Swift
@@ -54,7 +143,7 @@
 - 연습문제 09 [가장 큰 증가 부분 수열](http://boj.kr/11055)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2009/1.py), Kotlin, Swift
 
-### PART 3 알고리즘 핵심문제 20
+## PART 3 알고리즘 핵심문제 20
 
 - 핵심문제 01 [외계인의 기타 연주](https://boj.kr/2841)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2001/1.py), Kotlin, Swift
@@ -97,9 +186,9 @@
 - 핵심문제 20 [귀농](https://boj.kr/1184)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%203/Problem%2020/1.py), Kotlin, Swift
 
-### PART 4 삼성ㆍ카카오 기출문제
+## PART 4 삼성ㆍ카카오 기출문제
 
-##### CHAPTER 01 삼성전자 역량테스트
+### CHAPTER 01 삼성전자 역량테스트
 
 - 기출문제 01 [구슬 탈출 2](http://boj.kr/13460)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2001/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2001/2.py), Kotlin, Swift
@@ -118,7 +207,7 @@
 - 기출문제 08 [마법사 상어와 블리자드](http://boj.kr/21611)  
   C++, [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2008/1.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2001/Problem%2008/2.py), Kotlin, Swift
 
-##### CHAPTER 02 카카오 블라인드 코딩테스트
+### CHAPTER 02 카카오 블라인드 코딩테스트
 
 - 기출문제 01 [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%204/Chapter%2002/Problem%2001/1.py), Kotlin, Swift
