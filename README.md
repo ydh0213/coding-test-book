@@ -17,6 +17,9 @@
 
 ##### 코딩테스트 대비하기
 
+- 기본예제 [A+B](https://boj.kr/1000)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%201/Chapter%2001/Problem%2001/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%201/Chapter%2001/Problem%2001/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%201/Chapter%2001/Problem%2001/3.kt), [Swift](https://github.com/ydh0213/coding-test-book/blob/main/PART%201/Chapter%2001/Problem%2001/4.swift)
+
 ##### 언어 고르기
 
 ### CHAPTER 02 코딩테스트 출제 경향
