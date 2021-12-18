@@ -58,17 +58,39 @@
 
 ##### 연결 리스트 Linked List
 
+##### 배열과 연결 리스트
+
+- 필수예제 [요세푸스 문제 0](https://boj.kr/11866)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2001/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2001/2.py), Kotlin, Swift
+
 ##### 스택 Stack
 
+- 필수예제 [괄호](https://boj.kr/9012)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2002/1.py), Kotlin, Swift
+
 ##### 큐 Queue
+
+- 필수예제 [카드2](https://boj.kr/2164)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2003/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2003/2.py), Kotlin, Swift
 
 ##### 우선순위 큐 Priority Queue
 
 ##### 최대힙과 최소힙
 
+- 필수예제 [절댓값 힙](https://boj.kr/11286)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2004/1.cpp), [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2004/2.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2004/3.py), Kotlin, Swift
+
 ##### 맵 Map
 
+- 필수예제 [베스트셀러](https://boj.kr/1302)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2005/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2005/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2005/3.kt), Swift
+
 ##### 집합 Set
+
+- 필수예제 [회사에 있는 사람](https://boj.kr/7785)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2001/Problem%2006/1.py), Kotlin, Swift
+
+---
 
 - 연습문제 01 [키로거](https://boj.kr/5397)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/1.cpp), [Python(덱)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/2.py), [Python(스택)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2001/3.py), Kotlin, Swift
@@ -76,6 +98,8 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2002/1.py), Kotlin, Swift
 - 연습문제 03 [N번째 큰 수](http://boj.kr/2075)  
   [C++(정렬)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/1.cpp), [C++(우선순위 큐)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/2.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2003/3.py), Kotlin, Swift
+
+---
 
 ### CHAPTER 02 완전탐색
 
