@@ -109,7 +109,19 @@
 
 ##### 조합 combination
 
+- 필수예제 [백설 공주와 일곱 난쟁이](https://boj.kr/3040)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2001/1.cpp), [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2001/2.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2001/3.py), Kotlin, Swift
+- 필수예제 [유레카 이론](https://boj.kr/10448)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2002/1.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2002/2.kt), Swift
+- 필수예제 [사탕 게임](https://boj.kr/3085)  
+  C++, [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2003/1.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2003/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2003/3.kt), Swift
+
 ### CHAPTER 03 탐욕법
+
+- 필수예제 [회의실 배정](https://boj.kr/1931)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2004/1.cpp), [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2004/2.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2004/3.py), Kotlin, Swift
+- 필수예제 [수리공 항승](https://boj.kr/1449)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2005/1.py), Kotlin, Swift
 
 ### CHAPTER 04 DFS, BFS, 백트래킹
 
@@ -138,7 +150,17 @@
 
 ##### 길찾기 문제
 
+- 필수예제 [연결 요소의 개수](https://boj.kr/11724)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2006/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2006/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2006/3.kt), Swift
+- 필수예제 [미로 탐색](https://boj.kr/2178)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2007/1.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2007/2.kt), Swift
+
 ##### 백트래킹 Backtracking
+
+- 필수예제 [알파벳](https://boj.kr/1987)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2008/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2008/2.py), Kotlin, [Swift](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2002/Problem%2008/3.swift)
+
+---
 
 - 연습문제 04 [음식물 피하기](http://boj.kr/1743)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2004/1.py), Kotlin, Swift
@@ -146,6 +168,8 @@
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2005/1.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2005/2.kt), Swift
 - 연습문제 06 [N-Queen](https://boj.kr/9663)  
   C++, [PyPy3](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/1.py), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2006/3.kt), Swift
+
+---
 
 ### CHAPTER 05 이분탐색
 
