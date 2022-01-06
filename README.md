@@ -179,6 +179,11 @@
 
 ##### 매개변수 탐색 Parametric Search
 
+- 필수예제 [나무 자르기](https://boj.kr/2805)  
+  C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2001/1.py), Kotlin, Swift
+- 필수예제 [숫자 카드 2](https://boj.kr/10816)  
+  C++, [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2002/1.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2002/2.py), Kotlin, [Swift](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2002/3.swift)
+
 ### CHAPTER 06 동적계획법
 
 ##### 메모이제이션 Memoization
@@ -187,12 +192,23 @@
 
 ##### Top-down vs Bottom-up
 
+- 필수예제 [1로 만들기](https://boj.kr/1463)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2003/1.cpp), [Python(방법1)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2003/2.py), [Python(방법2)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2003/3.py), [Python(방법3)](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2003/4.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2003/5.kt), Swift
+- 필수예제 [2×n 타일링](http://boj.kr/11726)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2004/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2004/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2004/3.kt), [Swift](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2004/4.swift)
+- 필수예제 [스티커](https://boj.kr/9465)  
+  [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2005/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2005/2.py), [Kotlin](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Chapter%2005/Problem%2005/3.kt), Swift
+
+---
+
 - 연습문제 07 [기타레슨](https://boj.kr/2343)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2007/1.py), Kotlin, Swift
 - 연습문제 08 [제곱수의 합](https://boj.kr/1699)  
   [C++](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2008/1.cpp), [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2008/2.py), Kotlin, Swift
 - 연습문제 09 [가장 큰 증가 부분 수열](http://boj.kr/11055)  
   C++, [Python](https://github.com/ydh0213/coding-test-book/blob/main/PART%202/Practice%2009/1.py), Kotlin, Swift
+
+---
 
 ## PART 3 알고리즘 핵심문제 20
 
