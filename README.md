@@ -1,10 +1,10 @@
 # 한권으로 합격하는 취업 코딩테스트
 
-[&lt;한권으로 합격하는 취업 코딩테스트>](https://book.naver.com/bookdb/book_detail.naver?bid=21136621) 정오표 및 코드
+[&lt;한권으로 합격하는 취업 코딩테스트>](https://search.shopping.naver.com/book/catalog/38507250642) 정오표 및 코드
 
-<img src="https://user-images.githubusercontent.com/8025481/137583111-2950d198-6ae9-45e7-bbe7-9f20a24a4dcd.jpg" height="500"  alt="thumbnail"/>
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791138339483.jpg" alt="thumbnail"/>
 
-- 책 구매 링크: [시대고시기획](https://www.sdedu.co.kr/book/item.php?it_id=1626930732&cat_id=008005002), [NAVER 책](https://book.naver.com/bookdb/book_detail.naver?bid=21136621), [YES24](http://www.yes24.com/Product/Goods/104231234), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791138305419), [알라딘](http://aladin.kr/p/GP0za), [영풍문고](https://www.ypbooks.co.kr/book.yp?bookcd=101130329), [맨인북스](https://www.kangcom.com/sub/view.asp?sku=281377854), [11번가](http://www.11st.co.kr/products/3868685312), [커넥츠 공부서점](https://book.conects.com/product/bookDetail?goods_id=0100023107769)
+- 책 구매 링크: [시대에듀](https://www.sdedu.co.kr/book/item.php?it_id=1666771947), [NAVER 쇼핑](https://search.shopping.naver.com/book/catalog/38507250642), [YES24](https://www.yes24.com/Product/Goods/117863776), [교보문고](https://product.kyobobook.co.kr/detail/S000201209716), [알라딘](http://aladin.kr/p/nzaIK), [영풍문고](https://www.ypbooks.co.kr/book.yp?bookcd=101226136), [11번가](http://www.11st.co.kr/products/5587601859), [공부서점](https://book.conects.com/product/bookDetail?goods_id=0100023660479)
 - 각 문제를 C++, Python, Kotlin, Swift로 푼 각각의 코드를 제공 예정입니다.
 
 ***
